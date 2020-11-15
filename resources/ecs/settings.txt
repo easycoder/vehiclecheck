@@ -10,6 +10,7 @@
     div Body
     div Mask
     div Div
+    span Span
     h2 Title
     h3 Section
     hr HR
@@ -259,8 +260,13 @@ DoVehicles:
         create TR in VTable
         create TD in TR
         set attribute `colspan` of TD to 3
-        set style `color` of TD to `red`
-        set the content of TD to `Add a vehicle. Type the reg no. and tap +`
+        create Span in TD
+        set style `color` of Span to `red`
+        set the content of Span to `Add a vehicle. Type the reg no. and tap `
+        create Span in TD
+        set style `color` of Span to `green`
+        set style `weight` of Span to `bold`
+        set the content of Span to `+`
     end
     create TR in VTable
     set style `height` of TR to `3em`
