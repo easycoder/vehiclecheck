@@ -63,54 +63,6 @@
           "severity": 1,
           "left": 346,
           "top": 414
-        },
-        {
-          "description": 1,
-          "severity": 1,
-          "left": 321,
-          "top": 740
-        },
-        {
-          "description": 2,
-          "severity": 1,
-          "left": 609,
-          "top": 422
-        },
-        {
-          "description": 3,
-          "severity": 0,
-          "left": 172,
-          "top": 517
-        },
-        {
-          "description": 4,
-          "severity": 0,
-          "left": 359,
-          "top": 134
-        },
-        {
-          "description": 5,
-          "severity": 0,
-          "left": 829,
-          "top": 346
-        },
-        {
-          "description": 6,
-          "severity": 0,
-          "left": 160,
-          "top": 202
-        },
-        {
-          "description": 7,
-          "severity": 0,
-          "left": 560,
-          "top": 171
-        },
-        {
-          "description": 8,
-          "severity": 1,
-          "left": 382,
-          "top": 905
         }
       ],
       "tyres": {
@@ -125,5 +77,5 @@
       }
     }
   ],
-  "email": "gt@pobox.com"
+  "email": ""
 }
