@@ -265,7 +265,7 @@ DoVehicles:
         set the content of Span to `Add a vehicle. Type the reg no. and tap `
         create Span in TD
         set style `color` of Span to `green`
-        set style `font-weight` of Span to `bold`
+        set style `font-weight` of Span to 900
         set the content of Span to `+`
     end
     create TR in VTable
